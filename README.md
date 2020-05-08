@@ -1,3 +1,5 @@
+預覽網址: https://tom-linkitup.github.io/dicee/dicee.html
+
 This is a Dicee-game
 Using document object module (dom) in Javascript
 
